@@ -30,5 +30,5 @@
     "styles": ["./styles.css"],
     "url": "https://github.com/adotor/vtt-macro-folders",
     "manifest": "https://raw.githubusercontent.com/adotor/vtt-macro-folders/private-release/module.json",
-    "download": "https://github.com/adotor/vtt-macro-folders/releases/download/private-release.zip"
+    "download": "https://github.com/adotor/vtt-macro-folders/archive/private-release.zip"
   }

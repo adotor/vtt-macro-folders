@@ -2,8 +2,8 @@
     "name": "macro-folders",
     "title": "Macro Folders",
     "description": "Collapsable folders for macros",
-    "author": "Erceron",
-    "version": "1.2.22",
+    "author": "Erceron (modified by adotor)",
+    "version": "1.2.22-adotor",
     "minimumCoreVersion": "0.8.5",
     "compatibleCoreVersion":"0.8.8",
     "esmodules": [

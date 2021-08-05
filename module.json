@@ -24,11 +24,11 @@
     "media":[
       {
         "type":"cover",
-        "link":"https://raw.githubusercontent.com/earlSt1/vtt-macro-folders/master/example.PNG"
+        "link":"https://raw.githubusercontent.com/adotor/vtt-macro-folders/master/example.PNG"
       }
     ],
     "styles": ["./styles.css"],
-    "url": "https://github.com/earlSt1/vtt-macro-folders",
-    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-macro-folders/08x-update/module.json",
-    "download": "https://github.com/earlSt1/vtt-macro-folders/releases/download/1.2.22/1.2.22.zip"
+    "url": "https://github.com/adotor/vtt-macro-folders",
+    "manifest": "https://raw.githubusercontent.com/adotor/vtt-macro-folders/private-release/module.json",
+    "download": "https://github.com/adotor/vtt-macro-folders/releases/download/private-release.zip"
   }
